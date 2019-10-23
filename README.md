@@ -3,7 +3,10 @@
 [![Build Status](https://cloud.drone.io/api/badges/toolhippie/docker-custodian/status.svg)](https://cloud.drone.io/toolhippie/docker-custodian)
 [![](https://images.microbadger.com/badges/image/toolhippie/docker-custodian:latest.svg)](https://microbadger.com/images/toolhippie/docker-custodian:latest "Get your own image badge on microbadger.com")
 
-TBD
+**All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
+
+* [GitHub](https://github.com/toolhippie/docker-custodian)
+* [Upstream](https://github.com/Yelp/docker-custodian)
 
 
 ## Versions
