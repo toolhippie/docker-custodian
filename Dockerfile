@@ -1,6 +1,5 @@
 FROM webhippie/python:3.7
-
-ENTRYPOINT ["/usr/bin/dcgc"]
+ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=docker-custodian
 ENV DOCKER_CUSTODIAN_VERSION=0.7.4
