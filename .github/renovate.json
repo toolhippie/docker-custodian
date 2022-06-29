@@ -3,10 +3,12 @@
     "extends": [
         "github>webhippie/renovate:docker"
     ],
-    "packageRules": [{
-        "groupName": "docker-custodian packages",
-        "matchDatasources": [
-            "pypi"
-        ]
-    }]
+    "packageRules": [
+        {
+            "groupName": "docker-custodian packages",
+            "matchDatasources": [
+                "pypi"
+            ]
+        }
+    ]
 }
